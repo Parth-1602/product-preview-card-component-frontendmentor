@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://product-preview-card-component-frontendmentor-one.vercel.app/" color="white">
+    <a href="https://product-preview-card-component-frontendmentor-pi.vercel.app/" color="white">
       Live
     </a>
     <span> | </span>
